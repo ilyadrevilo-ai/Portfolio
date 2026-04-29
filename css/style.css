@@ -204,7 +204,7 @@ header #menu-btn:hover {
   padding: 0rem 5%;
   background: linear-gradient(167deg, #222 0%, #333 20%, #00329e 50%, #333 80%, #222 100%);
   background-size: 600% 600%;
-  animation: gradientFlow 15s ease-in-out infinite;
+  animation: gradientFlow 12s ease-in-out infinite;
 
   /*background-color: var(--black);*/
   min-height: 100vh;
@@ -577,6 +577,7 @@ header #menu-btn:hover {
 }
 
 /* portfolio section */
+
 .portfolio-container {
   position: relative;
   padding: 0 5rem;
